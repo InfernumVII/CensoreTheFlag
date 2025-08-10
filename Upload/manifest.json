@@ -1,0 +1,7 @@
+{
+    "name": "CensoreTheFlag",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/InfernumVII/CensoreTheFlag",
+    "description": "Replace all flags in MageArena to blank for streamers",
+    "dependencies": ["BepInEx-BepInExPack-5.4.2100"]
+}
